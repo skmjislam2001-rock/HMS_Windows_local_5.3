@@ -1,0 +1,15 @@
+{
+  "_comment": "Copy this file to config.json and fill in your email details. Everything is optional except emailTo if you want the link emailed.",
+
+  "emailTo": "your-email@gmail.com",
+  "emailFrom": "your-email@gmail.com",
+  "emailUser": "your-email@gmail.com",
+  "emailPass": "your-16-char-gmail-app-password",
+
+  "emailHost": "smtp.gmail.com",
+  "emailPort": 465,
+
+  "port": 8787,
+  "noTunnel": false,
+  "noEmail": false
+}
